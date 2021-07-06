@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.color{
+    color: orange;
+}
+.food-work{
+
+    display: flex;
+    padding-bottom: 150px;
+    
+}
+.food-net{
+
+    width: 90%;
+    padding-left: 6%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.food-net img{
+    width: 70%;
+    
+}
+#padding{
+    padding-bottom: 50px;
+}
+.image{
+    background-image: url(picture/7.png);
+    background-repeat: no-repeat;
+    
+}
+    
+    
+.order{
+        font-weight: 700;
+        color: white;
+        background-image: linear-gradient(orange,tomato);
+        border-radius: 10px;
+        padding: 10px 40px ;
+        text-decoration: none;
+    
+    
+}
+.h2-color{
+    color: grey;
+}
+    
