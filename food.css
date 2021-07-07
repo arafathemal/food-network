@@ -68,4 +68,34 @@ body{
     border-radius: 25px;
     padding-top: 5%;
 }
+.followers{
+    box-shadow: 10px 10px 40px #837474;
+    margin-right: 5% ;
+    margin-left: 5%;
+    margin-top: 90px;
+    border-radius: 30px;
+}
+.all-followers{
+    display: flex;
+    padding: 50px;
+    text-align: center;
+    
+
+}
+
+#divide{
+    padding-left:100px;
+    padding-right: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 400px;
+    
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
     
