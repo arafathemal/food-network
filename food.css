@@ -73,7 +73,7 @@ body{
     margin-right: 5% ;
     margin-left: 5%;
     margin-top: 90px;
-    border-radius: 30px;
+    border-radius: 15px;
 }
 .all-followers{
     display: flex;
@@ -95,7 +95,10 @@ body{
     text-align: center;
     background-color: black;
     color: white;
-    padding: 20px;
+    padding: 50px;
+}
+.footer-padding{
+    padding-top: 40px;
 }
 
     
